@@ -2,8 +2,10 @@
 
 using namespace std;
 
+extern int globalCount;
+
 int main()
 {
-    cout << "Hello world!" << endl;
+    cout << "Hello world!" << globalCount<< endl;
     return 0;
 }

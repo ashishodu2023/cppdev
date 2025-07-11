@@ -1,0 +1,1 @@
+int globalCount = 100;
